@@ -22,3 +22,7 @@ http://coxpresdb.jp
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531062/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383961/
 
+### Mouse hippocampal and amygdala co-expression networks... but they only provide the nodal genes for 3 modules in the supplementary section. Jerks.
+https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-11-20#MOESM2
+
+

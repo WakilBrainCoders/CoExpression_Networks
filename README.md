@@ -10,7 +10,7 @@ Since this data is from post-mortem samples, the main sources of variation the d
 Here's the paper:
 http://www.nature.com/neuro/journal/v19/n2/full/nn.4205.html
 The coexpression modules (all nodes - no edges) are in the supplementary tables (S2).
-Since this data is from freshly-resected human samples, the main source of variation will probably be related to dissection and pathology (but they tried to remove the variation related to pathology). Therefore, these co-expression networks probably strongly reflect cell type and anatomy.
+Since this data is from freshly-resected human samples, the main source of variation will probably be related to dissection and pathology (intractable epilepsy - but they tried to remove the variation related to pathology using linear regression modeling). Therefore, these co-expression networks probably strongly reflect cell type and anatomy.  Maybe age/development too - I need to double check their methods, but a lot of times hippocampal resection surgery occurs during childhood.
 
 ## Oh awesome: I just found co-expression networks created from a large sample of fresh mouse tissue for the hippocampus and striatum (n=100) too... which are then related back to strain-related differences in conditioned fear responses (yesss....):
 https://www.researchgate.net/publication/50408521_Gene_networks_associated_with_conditional_fear_in_mice_identified_using_a_systems_genetics_approach

@@ -14,6 +14,7 @@ Since this data is from freshly-resected human samples, the main source of varia
 
 ## Oh awesome: I just found co-expression networks created from a large sample of fresh mouse tissue for the hippocampus and striatum (n=100) too... which are then related back to strain-related differences in conditioned fear responses (yesss....):
 https://www.researchgate.net/publication/50408521_Gene_networks_associated_with_conditional_fear_in_mice_identified_using_a_systems_genetics_approach
+... and apparently one of the co-authors is my old housemate's brother. How funny.
 
 
 ## General network creation (includes data from co-expression and protein-protein interaction experiments):

@@ -12,4 +12,5 @@ http://funcoup.sbc.su.se/help/
 ## Coexpressdb focuses just on standard co-expression and protein-protein interaction data:
 http://coxpresdb.jp
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531062/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383961/
 

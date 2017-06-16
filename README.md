@@ -14,8 +14,10 @@ Since this data is from freshly-resected human samples, the main source of varia
 
 ## Oh awesome: I just found co-expression networks created from a large sample of fresh mouse tissue for the hippocampus and striatum (n=100) too... which are then related back to strain-related differences in conditioned fear responses (yesss....):
 https://www.researchgate.net/publication/50408521_Gene_networks_associated_with_conditional_fear_in_mice_identified_using_a_systems_genetics_approach
-... and apparently one of the co-authors is my old housemate's brother. How funny.
-
+... and apparently one of the co-authors is my old housemate's brother (Eleazar Eskin). How funny.
+The coexpression modules (all nodes - no edges) are in supplementary file 2. 
+Since this data is from the whole hippocampi of mice from 100 different strains of selective breeding that were subject to a conditioned fear task, the primary source of variation in the data will probably be genetic or related to different responses to the fear conditioning task. Therefore these co-expression networks may more closely reflect genes that are correlated structurally (cytobands maybe?) or networks of genes responsive to stress or learning/memory processes.
+... or anything else that might differ structurally or functionally across strains.
 
 ## General network creation (includes data from co-expression and protein-protein interaction experiments):
 
